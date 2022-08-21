@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">myComputer</string>
+
+    <!--  Page d'accueil  -->
+    <string name="home_page_tittle">Découvrir nos PC</string>
+    <string name="home_page_last_computer">Dernier PC</string>
+
+    <!--  Favorite Page  -->
+    <string name="favorite_page_title">Mes PC favoris</string>
+
+    <!--  Add Computer  -->
+    <string name="add_computer_title">Ajouter un PC</string>
+    <string name="add_computer_add_image_button">Charger une image</string>
+    <string name="add_computer_name_input">@string/computer_name</string>
+    <string name="add_computer_description_input">@string/computer_description</string>
+    <string name="add_computer_price_input">Prix</string>
+    <string-array name="add_computer_review_spinner_input">
+        <item>Très négative</item>
+        <item>négative</item>
+        <item>Moyenne</item>
+        <item>Positive</item>
+        <item>Très positive</item>
+    </string-array>
+    <string name="add_computer_confirm_button">Confirmer</string>
+
+    <!--    POP UP detail computer -->
+    <string name="popup_computer_name">Nom du PC</string>
+    <string name="popup_computer_description">Description</string>
+    <string name="popup_computer_description_subtitle">Petite description</string>
+    <string name="popup_computer_price">Prix</string>
+    <string name="popup_computer_price_subtitle">Prix affiché</string>
+    <string name="popup_computer_review">Avis</string>
+    <string name="popup_computer_review_subtitle">Avis affiché</string>
+
+    <!--  Computer  -->
+    <string name="computer_name">Nom du PC</string>
+    <string name="computer_description">Description</string>
+
+</resources>
